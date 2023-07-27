@@ -1,0 +1,125 @@
+body{
+    background-color: whitesmoke;
+}
+h2{
+    text-align: center;
+}
+.its{
+    text-align: center;
+    margin-top: -25px;
+}
+.wrap{
+    width: 350px;
+    height: 700px;
+    margin: 200px auto;
+}
+.form-group{
+    height: 600px;
+    border: 1px solid whitesmoke;
+    box-shadow: 0 0 10px darkgray;
+}
+input{
+    width: 60%;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+label{
+    text-align: center;
+}
+.firstname{
+    width: 200px;
+    margin-left: 20px;
+}
+.lastname{
+    width: 200px;
+    margin-left: 190px;
+    margin-top: -42px;
+}
+.mobile{
+    width: 482px;
+    margin-left: 20px;
+}
+.password{
+    width: 482px;
+    margin-left: 20px;
+}
+p{
+    text-align: center;
+}
+.birthday{
+    margin-left: 20px;
+}
+.month select{
+    width: 80px;
+    height: 35px;
+    position: absolute;
+}
+.day select{
+    width: 80px;
+    height: 35px;
+    margin-left: 107px;
+    position: absolute;
+}
+.year select{
+    width: 80px;
+    height: 35px;
+    margin-left: 207px;
+    position: relative;
+}
+.gender{
+    margin-left: 20px;
+}
+.ALL{
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+}
+.female{
+    position: absolute;
+}
+.female1{
+    position: relative;
+    margin-left: 50px;
+    margin-top: 2px;
+}
+.all1{
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+    margin-left: 105px;
+    margin-top: -41px;
+}
+.male{
+    position: absolute;
+}
+.male1{
+    position: relative;
+    margin-left: 50px;
+}
+.all2{
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+    margin-left: 205px;
+    margin-top: -41px;
+}
+.custom{
+    position: absolute;
+}
+.custom1{
+    position: relative;
+    margin-left: 50px;
+}
+.sign{
+    margin-left: 100px;
+}
+input[type=submit]{
+    background-color: limegreen;
+}
+.face{
+    text-align: center;
+}
